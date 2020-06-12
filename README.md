@@ -256,19 +256,6 @@ Const  num =
 Cevap = 5537376230
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Soru 23 :
 Non-abundant sums
     
@@ -426,28 +413,6 @@ var lengthOfLongestSubstring = function(s) {
     return max_len;
 };
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Soru 13 :
 Roman to Integer Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 Symbol       Value
@@ -486,21 +451,6 @@ var romanToInt = function(s) {
     }
     return total;
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Soru 23 :
  Merge k Sorted Lists Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity.
