@@ -1,4 +1,4 @@
-# -leriProgramlama
+# ileriProgramlama
 İleri programlama Final
 Project Euler Soruları :
 
